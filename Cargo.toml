@@ -1,0 +1,25 @@
+[package]
+name = "rst-traverse"
+version = "2.0.1"
+edition = "2021"
+description = "A terminal based file manager."
+authors = ["dmcg310"]
+readme = "README.md"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.71"
+time = "0.2.23"
+crossterm = "0.26"
+distance = "0.4.0"
+ratatui = "0.20"
+sysinfo = "0.29.0"
+trash = "3.0.2"
+walkdir = "2.3.3"
+flate2 = "1.0.26"
+tar = "0.4.38"
+zip-extract = "0.1.2"
+dirs = "5.0.1"
+sublime_fuzzy = "0.7.0"

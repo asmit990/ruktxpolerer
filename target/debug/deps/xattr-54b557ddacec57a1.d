@@ -1,0 +1,10 @@
+/Users/asmitpandey/Rust-Traverse/target/debug/deps/libxattr-54b557ddacec57a1.rmeta: /Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/lib.rs /Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/error.rs /Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/mod.rs /Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/util.rs /Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/mod.rs /Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/macos.rs
+
+/Users/asmitpandey/Rust-Traverse/target/debug/deps/xattr-54b557ddacec57a1.d: /Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/lib.rs /Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/error.rs /Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/mod.rs /Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/util.rs /Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/mod.rs /Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/macos.rs
+
+/Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/lib.rs:
+/Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/error.rs:
+/Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/mod.rs:
+/Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/util.rs:
+/Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/mod.rs:
+/Users/asmitpandey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/macos.rs:
