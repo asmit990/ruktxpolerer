@@ -1,42 +1,42 @@
-Rust-Traverse
+ruktxplorer
 
-Rust traverse is a terminal-based file explorer created with love by Asmit Pandey. It is inspired by the NNN file manager. It uses Ratatui for the terminal UI, with Crossterm for the terminal backend.
+ruktxplorer is a terminal-based file explorer created with love by Asmit Pandey. Inspired by the NNN file manager, it uses Ratatui for the terminal UI and Crossterm for the terminal backend.
 
 To traverse or not to traverse?
 
-
 Features
-
- Full CRUD operations on files and directories.
- Move and copy files and directories.
- Keyboard shortcuts for navigation and operations, ensuring a seamless experience without leaving the keyboard.
- Traverse directly to a directory by typing its path.
- Configurable options to tailor the experience to your needs.
- Extract tar.gz or zip archives.
- Bookmarks for your favorite directories.
- Fuzzy finder for files in your current directory.
- Preview files in the terminal.
- Lightning-fast performance.
+Full CRUD operations on files and directories.
+Move and copy files and directories.
+Keyboard shortcuts for navigation and operations, ensuring a seamless experience without leaving the keyboard.
+Traverse directly to a directory by typing its path.
+Configurable options to tailor the experience to your needs.
+Extract tar.gz or zip archives.
+Bookmarks for your favorite directories.
+Fuzzy finder for files in your current directory.
+Preview files in the terminal.
+Lightning-fast performance.
 Installation
-
 From Source
+
 Install Rust.
-Clone the repository.
+Clone the repository:
+git clone https://github.com/asmit990/ruktxplorer.git
 Run cargo build --release.
-The binary will be in target/release/rst-traverse.
+The binary will be in target/release/ruktxplorer.
 Add the binary to your system path.
 From Cargo
+
 Install Rust.
-Run cargo install rst-traverse.
+Run: cargo install ruktxplorer.
 Ensure Cargo's bin directory is in your system path.
 (Optional) Rename the binary to any name that suits you.
 From Binary
+
 Download the binary from the releases page.
-Use chmod +x rst-traverse (Linux/macOS only) to make the binary executable.
+Use chmod +x ruktxplorer (Linux/macOS only) to make the binary executable.
 Move the resulting binary to your system path.
 Usage
-
-Run rst-traverse in your terminal.
+Run ruktxplorer in your terminal.
 
 Keyboard Shortcuts
 Navigation
@@ -72,15 +72,14 @@ Help
 
 ?: Show help menu.
 Configuration
+The configuration file is located at /traverse/config.txt. Below is the default configuration for Asmit:
 
-The configuration file is located at <config-dir>/traverse/config.txt. Below is the default configuration for Asmit:
-
-# Configuration for Rust-Traverse by Asmit Pandey
+# Configuration for ruktxplorer by Asmit Pandey
 show_hidden=true
 excluded_directories=.git,.idea,.vscode,target,node_modules
 The excluded directories are those that will not be searched when using the FZF. You can edit this list to add/remove directories as needed.
 
-The bookmarks file is located at <config-dir>/traverse/bookmarks.txt. Here's an example for Asmit:
+The bookmarks file is located at /traverse/bookmarks.txt. Here's an example for Asmit:
 
 # Asmit's Favorite Directories
 /home/asmit/projects
@@ -88,4 +87,4 @@ The bookmarks file is located at <config-dir>/traverse/bookmarks.txt. Here's an 
 /home/asmit/documents
 Feel free to customize the configuration and bookmarks to suit your workflow!
 
-# ruktxpolerer
+This README format should now reflect the correct project name ruktxplorer and provide clear installation, usage, and configuration instructions. Let me know if you'd like any further edits!
